@@ -7,7 +7,7 @@ The repo contain verification Plan for given DUT memory, with coverage closure w
 Saleem Raza <br>
 Saqib Saif <br>
 Basit Mehmood <br>
-Arslan Chatta
+Arslan Chatta <br>
 
 You can get in touch with me on my LinkedIn Profile:
 
