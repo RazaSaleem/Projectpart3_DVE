@@ -4,9 +4,9 @@ The repo contain verification Plan for given DUT memory, with coverage closure w
 
 ### AUTHOR
 <hr>
-Saleem Raza
-Saqib Saif
-Basit Mehmood
+Saleem Raza <br>
+Saqib Saif <br>
+Basit Mehmood <br>
 Arslan Chatta
 
 You can get in touch with me on my LinkedIn Profile:
